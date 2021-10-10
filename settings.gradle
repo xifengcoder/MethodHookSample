@@ -1,0 +1,3 @@
+rootProject.name = "MethodHookSample"
+includeBuild('hookplugin')
+include ':app', ':methodhooklib'
